@@ -1,3 +1,0 @@
-tekst w nowym pliku.
-Nowe zmiany w pliku.
-A tu dodatkowo jeszcze jedna linijka tekstu.
